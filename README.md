@@ -1,11 +1,7 @@
 <html>
     <h1>hello world</h1>
-    <title>car brand</title>
-    <body>
-        
-     <img src="width="500" height="600 C:\Users\Administrator\Downloads"</img>
-     
+    <title>car brand</title> <body>   
+    <img src="C:\Users\Administrator\Downloads"</img src>    
     </body>
-    
 </html>
 
