@@ -3,7 +3,7 @@
     <title>car brand</title>
     <body>
         
-     <imgsrc>Downloads</imgsrc>
+     <img> src="C:\Users\Administrator\Downloads"</img>
      
     </body>
     
